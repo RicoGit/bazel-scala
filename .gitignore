@@ -1,0 +1,14 @@
+
+### Bazel
+
+/bazel*
+/spark-warehouse
+
+### IntelliJIDEA
+*.iml
+*.idea
+*target
+
+*ipr
+*iml
+
